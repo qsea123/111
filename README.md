@@ -1,0 +1,1 @@
+This is a software that can display photos on your computer desktop. You can select the photos you want to show on the desktop and drag them into the display box of the software. You can adjust their size to make them display more perfectly on your computer desktop.
